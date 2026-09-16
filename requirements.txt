@@ -2,3 +2,5 @@ requests
 pandas
 numpy
 tqdm
+google-cloud-bigquery
+google-cloud-storage
